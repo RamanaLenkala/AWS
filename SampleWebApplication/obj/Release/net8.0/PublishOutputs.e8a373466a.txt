@@ -1,0 +1,7 @@
+C:\Users\Supraja Konchada\source\repos\SampleWebApplication\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\SampleWebApplication.exe
+C:\Users\Supraja Konchada\source\repos\SampleWebApplication\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Supraja Konchada\source\repos\SampleWebApplication\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Supraja Konchada\source\repos\SampleWebApplication\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\SampleWebApplication.dll
+C:\Users\Supraja Konchada\source\repos\SampleWebApplication\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\SampleWebApplication.deps.json
+C:\Users\Supraja Konchada\source\repos\SampleWebApplication\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\SampleWebApplication.runtimeconfig.json
+C:\Users\Supraja Konchada\source\repos\SampleWebApplication\SampleWebApplication\obj\Release\net8.0\PubTmp\Out\SampleWebApplication.pdb
